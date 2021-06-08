@@ -1,0 +1,6 @@
+[submodule "BookMarkApp-Event-Driven-BackEnd"]
+	path = BookMarkApp-Event-Driven-BackEnd
+	url = https://github.com/AliRa22aq/BookMarkApp-Event-Driven-BackEnd
+[submodule "BookMarkApp-Event-Driven-FrontEnd"]
+	path = BookMarkApp-Event-Driven-FrontEnd
+	url = https://github.com/AliRa22aq/BookMarkApp-Event-Driven-FrontEnd
